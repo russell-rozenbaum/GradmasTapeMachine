@@ -14,4 +14,4 @@ Replace `/path/to/your/project` with the absolute path to your project directory
 
 ## Example
 
-![Example of the tape machine interface](example.png)
+![Example of the tape machine interface](processing_sketch/ui_ss.png)
